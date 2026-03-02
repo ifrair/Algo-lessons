@@ -1,0 +1,3 @@
+1) https://leetcode.com/problems/gcd-of-odd-and-even-sums/description/?envType=problem-list-v2&envId=math
+2) https://leetcode.com/problems/closest-divisors/description/?envType=problem-list-v2&envId=math
+3) https://codeforces.com/problemset/problem/230/B?locale=ru
